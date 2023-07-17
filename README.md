@@ -4,22 +4,39 @@ springboot-hello-world-demo
 
 **Name	                    Description**
 **spring-boot-starter-thymeleaf**	It is used to build MVC web applications using Thymeleaf views.
+
 **spring-boot-starter-data-couchbase**	It is used for the Couchbase document-oriented database and Spring Data Couchbase.
+
 **spring-boot-starter-artemis**	It is used for JMS messaging using Apache Artemis.
+
 **spring-boot-starter-web-services**	It is used for Spring Web Services.
+
 **spring-boot-starter-mail**	It is used to support Java Mail and Spring Framework's email sending.
+
 **spring-boot-starter-data-redis**	It is used for Redis key-value data store with Spring Data Redis and the Jedis client.
+
 **spring-boot-starter-web**	It is used for building the web application, including RESTful applications using Spring MVC. It uses Tomcat as the default embedded container.
+
 **spring-boot-starter-data-gemfire**	It is used to GemFire distributed data store and Spring Data GemFire.
+
 **spring-boot-starter-activemq**	It is used in JMS messaging using Apache ActiveMQ.
+
 **spring-boot-starter-data-elasticsearch**	It is used in Elasticsearch search and analytics engine and Spring Data Elasticsearch.
+
 **spring-boot-starter-integration**	It is used for Spring Integration.
+
 **spring-boot-starter-test**	It is used to test Spring Boot applications with libraries, including JUnit, Hamcrest, and Mockito.
+
 **spring-boot-starter-jdbc**	It is used for JDBC with the Tomcat JDBC connection pool.
+
 **spring-boot-starter-mobile**	It is used for building web applications using Spring Mobile.
+
 **spring-boot-starter-validation**	It is used for Java Bean Validation with Hibernate Validator.
+
 **spring-boot-starter-hateoas**	It is used to build a hypermedia-based RESTful web application with Spring MVC and Spring HATEOAS.
+
 **spring-boot-starter-jersey**	It is used to build RESTful web applications using JAX-RS and Jersey. An alternative to spring-boot-starter-web.
+
 spring-boot-starter-data-neo4j	It is used for the Neo4j graph database and Spring Data Neo4j.
 spring-boot-starter-data-ldap	It is used for Spring Data LDAP.
 spring-boot-starter-websocket	It is used for building the WebSocket applications. It uses Spring Framework's WebSocket support.
